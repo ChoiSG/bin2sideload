@@ -1,0 +1,12 @@
+*.png
+*.jpeg
+*.jpg
+*.exe
+*.bin
+*.zip
+*.dll
+.vscode/
+!uncryptbase.dll
+*.tmp.cpp
+*.tmp.c
+*.tmp
